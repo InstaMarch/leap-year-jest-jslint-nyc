@@ -1,3 +1,5 @@
+/*jslint es6 node*/
+
 const {createStore} = require("redux");
 const {checkLeapYear} = require("./reducers");
 
